@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # Replace 'your_api_key_here' with your actual API key
-genai.configure(api_key="AIzaSyDiImJzgMFD2OTFmkmE85-5mtzV9qUjPKQ")
+genai.configure(api_key="the_apikey")
 
 # Initialize our Streamlit app and set page config
 st.set_page_config(page_title="NutriVision")
